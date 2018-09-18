@@ -1,9 +1,9 @@
 # Pan de espelta
 
 **Ingredientes**:
-* 1/2 kg. de harina de fuerza christopher,diego,luis.
-* 1/2 kg. de harina de espelta.
-* 165 gr. de masa madre.
+* 50 gr. de harina de fuerza christopher,diego,luis.
+* 50 gr. de harina de espelta.
+* 50 gr. de masa madre.
 * Agua.
 * Sal.
 
