@@ -7,6 +7,7 @@
 * Agua.
 * Sal.
 * Azúcar.
+* 10 ml. de colorante rojo.
 
 **Horno**:
 * Tamaño pequeño con capacidad de 30 litros.
