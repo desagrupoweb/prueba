@@ -7,6 +7,7 @@
 * Agua.
 * Sal.
 * Azúcar.
+* Colorante negro.
 
 **Horno**:
 * Tamaño pequeño con capacidad de 30 litros.
