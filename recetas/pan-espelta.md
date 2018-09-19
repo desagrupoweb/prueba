@@ -11,5 +11,5 @@
 
 **Horno**:
 * Tamaño pequeño con capacidad de 30 litros.
-* Se debe hornear en 20 minutos.
+* Se debe hornear máximo 15 minutos.
 
